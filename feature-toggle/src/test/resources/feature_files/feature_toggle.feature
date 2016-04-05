@@ -1,4 +1,4 @@
-#   Copyright 2013-2015 Blocks4J Team (www.blocks4j.org)
+#   Copyright 2013-2016 Blocks4J Team (www.blocks4j.org)
 #
 #   Licensed under the Apache License, Version 2.0 (the "License");
 #   you may not use this file except in compliance with the License.
